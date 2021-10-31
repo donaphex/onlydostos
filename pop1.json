@@ -1,0 +1,46 @@
+{
+  
+        "step1":"",
+	"step2":"",
+	"step3":"",
+	"step4":"Complete Verification",
+        "step5":"",
+	"step6":"",
+	"step7":"",
+
+	"CPA_LINK":"https://www.facebook.com/",
+	
+	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter1":"ca-app-pub-39402560942544/1033173712",
+	"admob_banner2":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter2":"ca-app-pub-3940299942544/1033173712",
+	"admob_banner3":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter3":"ca-app-pub-394099942544/1033173712",
+	"admob_banner4":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter4":"ca-app-pub-6099942544/1033173712",
+	
+	"unity_game_id" : "3916229",
+        "unity_banner" : "Android_Banner",
+        "unity_interstitial" : "Android_Interstitial",
+	
+	"APPLOVIN_BANNER_ID":"ae44996e2b723dcf",
+	"APPLOVIN_INTERSTITIAL_ID":"2838649e0b560a68",
+	
+	"MO_PUB_BANNER_ID":"b195f8dd8ded45fe847ad89ed1d016da",
+	"MO_PUB_INTERSTITIAL_ID":"24534e1901884e398f1253216226017e",
+	"whichAds":3,
+
+	"isLastPageShow":false,
+	
+	"is_pop_up_enable":false,
+	"pop_up_title":"Instagram",
+	"pop_up_image_url":"https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
+	"pop_up_button_text":"Install Now",
+	"pop_up_link":"https://play.google.com/store/apps/details?id=com.instagram.android",
+	
+	"native_image_url":"https://blog.admixer.com/wp-content/uploads/2017/07/002.png",
+	"native_link":"https://www.facebook.com/",
+	"native_enabled":false
+
+
+}
