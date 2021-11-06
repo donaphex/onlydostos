@@ -19,16 +19,16 @@
 	"admob_banner4": "ca-app-pub-3940256099942544/6300978111",
 	"admob_inter4": "ca-app-pub-6099942544/1033173712",
 	"testmode": false,
-	"unity_game_id": "3916229",
-	"unity_banner": "Android_Banner",
-	"unity_interstitial": "Android_Interstitial",
+	"unity_game_id": "4439433",
+	"unity_banner": "Banner_Android",
+	"unity_interstitial": "Interstitial_Android",
 
 	"APPLOVIN_BANNER_ID": "439e1398756a33db",
 	"APPLOVIN_INTERSTITIAL_ID": "32dc1d3bc2fbbfac",
 
 	"MO_PUB_BANNER_ID": "",
 	"MO_PUB_INTERSTITIAL_ID": "",
-	"whichAds": 2,
+	"whichAds": 3,
 
 	"isLastPageShow": false,
 
