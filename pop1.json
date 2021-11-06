@@ -30,16 +30,16 @@
 	"MO_PUB_INTERSTITIAL_ID": "",
 	"whichAds": 2,
 
-	"isLastPageShow": false,
+	"isLastPageShow": true,
 
 	"is_pop_up_enable": true,
 	"pop_up_title": "Get Poppy",
 	"pop_up_image_url": "https://i.ibb.co/J2n5rpL/popo.png",
 	"pop_up_button_text": "Install Now",
-	"pop_up_link": "https://play.google.com/store/apps/details?id=com.tocabocalifelilv.tocalifecuteguide",
+	"pop_up_link": "https://play.google.com/store/apps/details?id=com.huggywuggydrm.huggyfnfmodguide",
 
 	"native_image_url": "https://i.ibb.co/y5xND7r/yyy.png",
-	"native_link": "https://play.google.com/store/apps/details?id=com.tocabocalifelilv.tocalifecuteguide",
+	"native_link": "https://play.google.com/store/apps/details?id=com.huggywuggydrm.huggyfnfmodguide",
 	"native_enabled": true
 
 
