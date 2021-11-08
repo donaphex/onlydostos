@@ -27,9 +27,9 @@
 	"APPLOVIN_BANNER_ID":"ae44996e2b723dcf",
 	"APPLOVIN_INTERSTITIAL_ID":"2838649e0b560a68",
 	
-	"MO_PUB_BANNER_ID":"b195f8dd8ded45fe847ad89ed1d016da",
-	"MO_PUB_INTERSTITIAL_ID":"24534e1901884e398f1253216226017e",
-	"whichAds":3,
+	"MO_PUB_BANNER_ID":"",
+	"MO_PUB_INTERSTITIAL_ID":"",
+	"whichAds":1,
 	"isLastPageShow":false,
 	
 	"is_pop_up_enable":false,
