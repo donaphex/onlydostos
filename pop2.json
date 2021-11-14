@@ -8,7 +8,7 @@
 	"step6":"On the plus side, you don't need to view all toys as enemies. You've got some toys of your own to help you out as you begin exploring and solving puzzles in the dark and spooky factory. The GrabPack is a set of toy-like hands you can strap to yourself, which act as cute grappling hooks. Click the mouse and your big plastic hand will shoot across the room and latch onto something. Click again and it'll haul it back",
 	"step7":"Poppy Playtime introduces horrifying toys and a detailed hidden backstory surrounding the mystery behind the Playtime Co. factory. It uses the popular mascot horror trend used in many horror games but effectively brings chills to the players",
 
-	"CPA_LINK":"https://www.facebook.com/",
+	"CPA_LINK":"https://bit.ly/3kWAQ5V",
 
 	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter1":"ca-app-pub-39402560942544/1033173712",
@@ -30,15 +30,15 @@
 	"MO_PUB_BANNER_ID":"",
 	"MO_PUB_INTERSTITIAL_ID":"",
 	"whichAds":2,
-	"isLastPageShow":false,
+	"isLastPageShow":true,
 	
-	"is_pop_up_enable":false,
+	"is_pop_up_enable":true,
 	"pop_up_title":"Instagram",
-	"pop_up_image_url":"https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
+	"pop_up_image_url":"https://i.ibb.co/J2n5rpL/popo.png",
 	"pop_up_button_text":"Install Now",
-	"pop_up_link":"https://play.google.com/store/apps/details?id=com.instagram.android",
+	"pop_up_link":"https://bit.ly/3kWAQ5V",
 	
-	"native_image_url":"https://blog.admixer.com/wp-content/uploads/2017/07/002.png",
-	"native_link":"https://www.facebook.com/",
-	"native_enabled":false
+	"native_image_url":"https://i.ibb.co/y5xND7r/yyy.png",
+	"native_link":"https://bit.ly/3kWAQ5V",
+	"native_enabled":true
 }
