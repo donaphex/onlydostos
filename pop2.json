@@ -30,9 +30,9 @@
 	"MO_PUB_BANNER_ID":"",
 	"MO_PUB_INTERSTITIAL_ID":"",
 	"whichAds":2,
-	"isLastPageShow":true,
+	"isLastPageShow":false,
 	
-	"is_pop_up_enable":true,
+	"is_pop_up_enable":false,
 	"pop_up_title":"Get Poppy",
 	"pop_up_image_url":"https://i.ibb.co/J2n5rpL/popo.png",
 	"pop_up_button_text":"Install Now",
@@ -40,5 +40,5 @@
 	
 	"native_image_url":"https://i.ibb.co/y5xND7r/yyy.png",
 	"native_link":"https://bit.ly/3kWAQ5V",
-	"native_enabled":true
+	"native_enabled":false
 }
