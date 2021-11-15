@@ -32,11 +32,11 @@
 	"whichAds":2,
 	"isLastPageShow":false,
 	
-	"is_pop_up_enable":false,
+	"is_pop_up_enable":true,
 	"pop_up_title":"Get Poppy",
 	"pop_up_image_url":"https://i.ibb.co/J2n5rpL/popo.png",
 	"pop_up_button_text":"Install Now",
-	"pop_up_link":"https://bit.ly/3kWAQ5V",
+	"pop_up_link":"https://play.google.com/store/apps/details?id=com.poppyhorrorplay.guidepoppyplay",
 	
 	"native_image_url":"https://i.ibb.co/y5xND7r/yyy.png",
 	"native_link":"https://bit.ly/3kWAQ5V",
