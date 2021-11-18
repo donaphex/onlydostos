@@ -1,0 +1,35 @@
+{
+
+
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+	"popAppName": "Free Fire",
+	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/logo_free_diamond.png",
+	"popAppPackage": "com.dts.freefireth",
+	"popAppIsActive": true,
+	
+	"moreApps":"https://play.google.com/store/apps/developer?id=WhatsApp+LLC",
+	"privacyPolicy":"https://privacypolicyvandev.blogspot.com/",
+
+	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
+	"NativeMenuImageLink": "https://www.facebook.com/",
+	"ENABLE_ADMOB_NATIVE_ADS_CHANNEL_LIST": true,
+	"ADMOB_NATIVE_ADS_INTERVAL": 4,
+	
+	"APP_KEY": "fc8adac9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"ADMOB_BANNER": "ca-app-pub-39456099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-39406099942544/1033173712",
+
+	"APPLOVIN_BANNER_ID": "",
+	"APPLOVIN_INTERSTITIAL_ID": "",
+
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "3916229",
+	"UNITY_TEST_MODE": false,
+
+	"SwitchAds": 1
+
+}
