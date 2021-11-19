@@ -12,8 +12,8 @@
 
 	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
 	"NativeMenuImageLink": "https://www.facebook.com/",
-	"ENABLE_ADMOB_NATIVE_ADS_CHANNEL_LIST": true,
-	"ADMOB_NATIVE_ADS_INTERVAL": 1,
+	"ENABLE_ADMOB_NATIVE_ADS_CHANNEL_LIST": false,
+	"ADMOB_NATIVE_ADS_INTERVAL": 4,
 	
 	"APP_KEY": "fc8adac9",
 	"BANNER_PLACEMENT": "DefaultBanner",
