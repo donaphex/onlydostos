@@ -10,7 +10,7 @@
 		        "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg"
 		},
 		{
-			"isNative": true,
+			"isNative": false,
 			"title": "",
 			"description": "",
 		        "imageUrl":""
