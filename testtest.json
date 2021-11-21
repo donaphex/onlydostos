@@ -93,7 +93,7 @@
 
 	"DetailImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
 	"DetailImageLink": "https://www.youtube.com/",
-	"DetailImageisActivated": false,
+	"DetailImageisActivated": true,
 
 	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
 	"NativeMenuImageLink": "https://www.facebook.com/",
